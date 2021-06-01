@@ -1,0 +1,10 @@
+const vTitleHome = 'Objetos Emprestados';
+const vTitleNewLoad = 'Novo Objeto';
+const vTitleDetails = 'Detalhes';
+const vLabelDescription = 'Descrição';
+const vLabelName = 'Nome';
+const vLabelLoadDate = 'Data do empréstimo';
+const vLabelPhone = 'Telefone';
+const vButtonSave = 'Salvar';
+const vDatabaseName = 'memstuff.db';
+const vDatabaseVersion = 1;
